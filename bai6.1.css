@@ -1,0 +1,38 @@
+
+#b1 {
+    width: 220px;
+    height: 300px;
+    border: 1px solid black; 
+    display: flex;
+    align-items: center;
+    background-color: black;
+    justify-content: center;
+
+  
+  }
+  #b1 div{
+    width: 50px;
+    height: 50px;
+
+  }
+
+
+.b1:nth-of-type(1){
+    color:green;
+    font-size: 14px;
+    
+    background-color:aqua;
+}
+.b1:nth-of-type(2){
+    color:green;
+    font-size: 14px;
+   
+    background-color:blueviolet;
+}
+.b1:nth-of-type(3){
+    
+    font-size: 14px;
+    
+    background-color:blue;
+}
+

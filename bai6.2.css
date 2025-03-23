@@ -1,0 +1,21 @@
+.container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 200px;
+}
+.doimau{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.doimau:hover{
+    background-color: blueviolet;
+}

@@ -1,0 +1,16 @@
+.box{
+    display: inline;
+    color: black;
+    background-color:white;
+    
+    border-bottom: 5px solid red;
+    border-top: 20px solid blue;
+     border-left: 15px solid green;
+    border-right: 6px dashed blueviolet;
+    padding: 5px;
+    margin-top: 20px;
+
+    
+
+    
+}

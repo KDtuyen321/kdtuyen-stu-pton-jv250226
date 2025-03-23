@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    border: 2px solid #ccc;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .scale {
+    width: 100px;
+    height: 100px;
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease; 
+  }
+  
+  .scale:hover {
+    transform: scale(3);
+  }
